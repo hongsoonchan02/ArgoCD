@@ -14,4 +14,4 @@ resources:
 images:
   - name: docker.io/hongsoonchan/demo
     newName: docker.io/hongsoonchan/demo
-    newTag: 58cccac
+    newTag: PLACEHOLDER

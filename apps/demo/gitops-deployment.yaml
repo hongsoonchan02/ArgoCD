@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: demo-container
-          image: docker.io/hongsoonchan/demo:58cccac
+          image: docker.io/hongsoonchan/demo
           ports:
             - containerPort: 8080
           envFrom:
