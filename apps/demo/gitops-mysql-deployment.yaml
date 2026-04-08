@@ -13,7 +13,7 @@ spec:
       labels:
         app: mysql
     spec:
-      comtainers:
+      containers:
         - name: mysql
           image: mysql:8.0
           ports:
