@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: demo-container
-          image: docker.io/hongsoonchan/demo:PLACEHOLDER
+          image: docker.io/hongsoonchan/demo:11ac2ba
           ports:
             - containerPort: 8080
           envFrom:
